@@ -7,13 +7,6 @@ This project focuses on classifying YouTube comments as **spam** or **ham** (non
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [Lessons Learned](#lessons-learned)
-7. [Future Work](#future-work)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
